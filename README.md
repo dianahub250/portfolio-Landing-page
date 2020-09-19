@@ -3,8 +3,8 @@
 <html>
   
   <form>
-<label> Author's Name</label>
-  <input type="text" placeholder="Enter Name...">
+<label> Author's Name:</label> <label> Diane NGOGA NIYODUKORERA</label>
+  
   </form>
   </html>
 
