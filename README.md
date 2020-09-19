@@ -8,7 +8,7 @@
   <b><label> Project Description</label></b> <br>
   <label>This is the Independent project which indicates my portfolio. It provides some information about the projects that I have done, my Job experince, Skills, hobbies and Interests. </label><br><br>
   
-  <label>link to live site on GitHub Pages: <label>
+ <b> <label>link to live site on GitHub Pages: <label></b>
     <a href="https://github.com/dianahub250/portfolio-Landing-page"> Click Here</a><br>
   <b><label>Project project setup instructions</label></b>
   
