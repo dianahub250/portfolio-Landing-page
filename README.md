@@ -16,7 +16,9 @@
     <li>Install Browser</li>
     <li>Create Git account</li>
     
-   
+    <footer>
+ <p>Diane NGOGA NIYODUKORERA, Copyright &copy; 2020<p>
+ </footer>
   
   </form>
   </html>
