@@ -5,7 +5,7 @@
   <form>
 <b><label> Author's Name:</label></b> <label> Diane NGOGA NIYODUKORERA</label><br><br>
   <b><label> Project Description</label></b> <br>
-  <label>This is the Independent project which indicates my portfolio. It provides some information about the projects that I have done, my Job experince, Skills, hobbies and Interests. </label>
+  <label>This is the Independent project which indicates my portfolio. It provides some information about the projects that I have done, my Job experince, Skills, hobbies and Interests. </label><br><br>
   
  
   <b><label>Project project setup instructions</label></b>
