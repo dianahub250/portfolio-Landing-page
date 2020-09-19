@@ -13,6 +13,9 @@
   <li>Install Editor</li>
     <li>Install Browser</li>
     <li>Create Git account</li>
+    
+    <label>link to live site on GitHub Pages: <label>
+    <a href="https://github.com/dianahub250/portfolio-Landing-page"></a>
   
   </form>
   </html>
