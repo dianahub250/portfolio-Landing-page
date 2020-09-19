@@ -14,7 +14,7 @@
   
   <li>Install Editor</li>
     <li>Install Browser</li>
-    <li>Create Git account</li>
+    <li>Create Git account</li><br><br>
     
   <footer>
  <p>Diane NGOGA NIYODUKORERA, Copyright &copy; 2020<p>
